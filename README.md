@@ -1,18 +1,26 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00000097&vCenter=true&multiline=true&repeat=false&width=435&lines=+Software+Developer%3A+James+Joe)](https://git.io/typing-svg)
 
 <h2> My Info </h2>
-<h4>📝 My Blog</h4> 
 
->[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=James)](https://velog.io/@kyeun95) <br>
->[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=kyeun95)](https://github.com/jamesjoe0830/velog-readme-stats)
 
+  <div>
+    <h4> My Blog</h4> 
+    <a href="https://velog.io/@kyeun95">
+      <img src="https://velog-readme-stats.vercel.app/api/badge?name=James" alt="Velog's GitHub stats">
+    </a> <br>
+    <a href="https://github.com/jamesjoe0830/velog-readme-stats">
+      <img src="https://velog-readme-stats.vercel.app/api?name=kyeun95" alt="Velog's GitHub stats">
+    </a>
+   
+  </div>
+</div>
 
 <br>
-
-<h4>💼 My Portfolio</h4>
-
-<br>
-
+<h4> Problem Solving</h4>
+ <a href="https://solved.ac/kyeun95">
+      <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kyeun95" alt="Solved.ac 프로필" style="width:20%;">
+    </a>
+    
 <div><h4>📚 My tech STACKS</h4></div>
 
 > ### ✔️Front-end 
