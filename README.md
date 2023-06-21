@@ -9,7 +9,7 @@
       <img src="https://velog-readme-stats.vercel.app/api/badge?name=James" alt="Velog's GitHub stats">
     </a> <br>
     <a href="https://github.com/jamesjoe0830/velog-readme-stats">
-      <img src="https://velog-readme-stats.vercel.app/api?name=kyeun95" alt="Velog's GitHub stats">
+      <img src="https://velog-readme-stats.vercel.app/api?name=kyeun95" alt="Velog's GitHub stats" style="width: 40%;">
     </a>
    
   </div>
@@ -18,7 +18,7 @@
 <br>
 <h4> Problem Solving</h4>
  <a href="https://solved.ac/kyeun95">
-      <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kyeun95" alt="Solved.ac 프로필" style="width:20%;">
+      <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kyeun95" alt="Solved.ac 프로필" style="width:30%;">
     </a>
     
 <div><h4>📚 My tech STACKS</h4></div>
