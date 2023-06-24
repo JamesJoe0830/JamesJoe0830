@@ -4,7 +4,7 @@
 
 
   <div>
-    <h4> My Blog</h4> 
+    <h4> 💡 My Blog</h4> 
     <a href="https://velog.io/@kyeun95">
       <img src="https://velog-readme-stats.vercel.app/api/badge?name=James" alt="Velog's GitHub stats">
     </a> <br>
@@ -16,7 +16,7 @@
 </div>
 
 <br>
-<h4> Problem Solving</h4>
+<h4> 💡 Problem Solving</h4>
  <a href="https://solved.ac/kyeun95">
       <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kyeun95" alt="Solved.ac 프로필" style="width:30%;">
     </a>
