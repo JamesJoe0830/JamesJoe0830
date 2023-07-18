@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00000097&vCenter=true&multiline=true&repeat=false&width=435&lines=+Software+Developer%3A+James+Joe)](https://git.io/typing-svg)
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJamesJoe0830&count_bg=%234AA802&title_bg=%23414141&icon=nextdoor.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <h2> My Info </h2>
 
 
